@@ -3,7 +3,7 @@ import os
 import bot
 
 # Telegram tokenini environment içine yazıyoruz
-os.environ["TOKEN"] = "BURAYA_TOKENI_YAZ"
+os.environ["TOKEN"] = "8023463275:AAEvNrbcVzz1sG1sacHKYp4YWLQLI1iVNJw"
 
 async def main():
     await bot.main()
